@@ -1,0 +1,10 @@
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\bin\Debug\Programmering2.exe.config
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\bin\Debug\Programmering2.exe
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\bin\Debug\Programmering2.pdb
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\obj\Debug\Programmering2.csproj.AssemblyReference.cache
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\obj\Debug\Programmering2.Form1.resources
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\obj\Debug\Programmering2.Properties.Resources.resources
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\obj\Debug\Programmering2.csproj.GenerateResource.cache
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\obj\Debug\Programmering2.csproj.CoreCompileInputs.cache
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\obj\Debug\Programmering2.exe
+C:\Users\RalfKjapsna\Desktop\Programmering2\Programmering2\obj\Debug\Programmering2.pdb
